@@ -1,4 +1,6 @@
 # calculator_calculations.py
+# Author: Artan Mustafai
+# Date: 2025-09-28
 
 # -----------------------------------------------------------------------------------
 # Import Statements
